@@ -1,0 +1,9 @@
+#+title: Remote Github Workflows
+#+subtitle: A github action to trigger workflows on remote github projects
+#+language: en
+#+startup: entitiespretty showall
+#+options: ^:nil
+
+* Requirements
+- This Action runs as bash script.
+- This Action needs jq ([[https://jqlang.org/][jq homepage]] [[https://github.com/jqlang/jq][jq github repository]])
